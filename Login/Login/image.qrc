@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photo/1.jpg</file>
+        <file>photo/2.jpg</file>
+        <file>photo/3.jpg</file>
+        <file>photo/4.jpg</file>
+        <file>photo/5.jpg</file>
+        <file>photo/6.jpg</file>
+        <file>photo/8.JPG</file>
+        <file>photo/9.jpg</file>
+        <file>photo/11.jpg</file>
+        <file>photo/background.jpg</file>
+        <file>photo/background1.jpg</file>
+        <file>photo/background2.jpg</file>
+        <file>photo/background3.jpg</file>
+        <file>photo/background4.jpg</file>
+        <file>photo/background5.jpg</file>
+        <file>photo/calculator.png</file>
+        <file>photo/dialog.jpg</file>
+        <file>photo/lock.jpg</file>
+        <file>photo/min.jpg</file>
+        <file>photo/min.png</file>
+        <file>photo/off.jpg</file>
+        <file>photo/off.png</file>
+        <file>photo/record.jpg</file>
+        <file>photo/SDUST.png</file>
+        <file>photo/set.jpg</file>
+        <file>photo/start.jpg</file>
+        <file>photo/state.jpg</file>
+        <file>photo/unlock.jpg</file>
+        <file>photo/xing.jpg</file>
+        <file>photo/xing1.jpg</file>
+        <file>photo/lock.png</file>
+        <file>photo/unlock.png</file>
+        <file>photo/record.png</file>
+        <file>photo/state.png</file>
+        <file>photo/set.png</file>
+    </qresource>
+</RCC>

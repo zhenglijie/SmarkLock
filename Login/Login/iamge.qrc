@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photo/1.jpg</file>
+        <file>photo/2.jpg</file>
+        <file>photo/background.jpg</file>
+        <file>photo/book.jpg</file>
+        <file>photo/calc.jpg</file>
+        <file>photo/camera.jpg</file>
+        <file>photo/cameraMax.jpg</file>
+        <file>photo/close.jpg</file>
+        <file>photo/close1.jpg</file>
+        <file>photo/del.jpg</file>
+        <file>photo/home.jpg</file>
+        <file>photo/icon.jpg</file>
+        <file>photo/last.jpg</file>
+        <file>photo/left.jpg</file>
+        <file>photo/max.jpg</file>
+        <file>photo/Media.jpg</file>
+        <file>photo/min.jpg</file>
+        <file>photo/music.jpg</file>
+        <file>photo/new.jpg</file>
+        <file>photo/next.jpg</file>
+        <file>photo/photo.jpg</file>
+        <file>photo/play.jpg</file>
+        <file>photo/playing.jpg</file>
+        <file>photo/return.jpg</file>
+        <file>photo/right.jpg</file>
+        <file>photo/stop.jpg</file>
+        <file>photo/vedio.jpg</file>
+        <file>photo/vol.jpg</file>
+    </qresource>
+</RCC>
