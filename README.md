@@ -1,2 +1,2 @@
 # SmarkLock
-Qt、Linux C、Arduino
+C++ Qt、Linux C、Arduino
